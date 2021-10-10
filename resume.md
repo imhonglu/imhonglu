@@ -74,15 +74,51 @@
   - quilljs 기반 커스텀 편집기 개발
   - 학원가용 문자 템플릿 발송 서비스의 프로젝트 구조 설계 및 개발(서비스 종료)
   - 1:1 케어를 위한 온라인 교육 서비스의 프로젝트 구조 설계 및 개발
-    - 강사가 커리큘럼을 작성할 수 있도록 관리 페이지 제공
-    - 제공되는 커리큘럼을 기반으로 강사와 소통할 수 있도록 수강 페이지 개발
 
 ### 4. 주피타카
 
 - 개발환경
+  - monorepo(lerna)
+  - typescript
+  - react
+    - mobx
+    - emotion
+  - storybook
 - 경험
+  - typescript 도입
+  - monorepo(lerna) 도입
+  - FE 개발문화, 환경 개선 
+    - git 컨벤션, 코드 컨벤션 도입
+    - PR 을 기반으로 코드 리뷰를 도입하여 코드 퀄리티 향상
+  - storybook 도입
+  - font subset script 작성
+    - 필요에 따라 subset 을 자동화하는 script 개발
+  - mobx factory pattern + 익명 class 를 적용하여 특정 데이터 타입에 종속되는 store 생성 함수 제공 
+  - 차세대 소상공인용 가계부 앱 구조 설계 및 개발(중도 이탈)
 
 ### 5. 소프트웨어인라이프
 
 - 개발환경
+    - monorepo(lerna)
+    - typescript
+    - react
+        - mobx
+        - emotion
+    - web-component(hybrids)
+      - tailwindcss
+    - storybook
 - 경험
+    - typescript 도입
+    - monorepo(lerna) 도입
+    - FE 개발문화, 환경 개선
+        - git 컨벤션, 코드 컨벤션 도입
+        - PR 을 기반으로 코드 리뷰를 도입하여 코드 퀄리티 향상
+    - storybook 도입
+    - 차세대 병원 그룹웨어 구조 설계 및 개발
+      - react 기반 시스템 개발
+      - mobx 기반의 데이터 처리 방식을 패턴화 => 함수로 제공하여 생산성 향상
+      - 프로젝트 중간 구조 변경으로 web-component 기반 시스템 개발
+        - tailwindcss 도입
+    - 조직도 서비스의 로딩 성능 향상
+      - intersection observer 기반 lazy-load 처리
+      - queue process 도입
