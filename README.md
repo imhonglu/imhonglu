@@ -1,4 +1,4 @@
-### Hi there 👋
+[이력서 보기](./resume.md)
 
 <!--
 **imhonglu/imhonglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
