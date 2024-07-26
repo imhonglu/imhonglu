@@ -9,4 +9,4 @@
 - Github: https://github.com/imhonglu
 - E-Mail: anonymouser.unknown at 구글이에요.
 
-# [이력](https://www.linkedin.com/in/imhonglu/)
+# [이력](./resume.md)
