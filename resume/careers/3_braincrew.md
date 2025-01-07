@@ -1,7 +1,7 @@
 # 브레인크루
 
 - 2018-12-10 ~ 2020-07-01 (1년 6개월)
-- 웹 개발자 포지션으로 입사하여 풀스택 개발을 담당했습니다.
+- 풀스택 개발자로 합류해 프로젝트를 주도했습니다.
 
 ## 사용 기술
 - Nodejs, Express, MariaDB, React, AWS ElasticBeanstalk, AWS S3, AWS Cloudfront, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
@@ -9,13 +9,13 @@
 ## 주요 프로젝트
 
 ### [런어데이](https://learnaday.kr/) 개발 및 출시(운영 중단)
-- 목적: 온.오프라인 소셜 교육 플랫폼 개발
+- 목적: 온/오프라인 교육 플랫폼 개발
 - 기간: 7개월
 - 역할 및 기여: 개발, 100%
 - 환경: Nodejs, Express, MariaDB, React, AWS ElasticBeanstalk, AWS S3, AWS Cloudfront
 - 주요 성과:
-  - 강사 대시보드 개발: 강의 등록/수정, 수강생 관리, 피드백 시스템 구현
-  - 학습자 대시보드 개발: 수강신청/결제, 학습 진도 관리, 과제 제출 및 피드백 확인 기능 구현
+  - 강사 대시보드: 강의 관리, 수강생 관리, 피드백 시스템 구현
+  - 학습자 대시보드: 수강신청/결제, 학습 진도 관리, 과제 제출 및 피드백 확인 기능 구현
 
 ### CI/CD 파이프라인 구축
 - 목적: 소스 코드 변경 시 자동 빌드 및 배포 파이프라인 구축

@@ -1,7 +1,7 @@
 # 뉴스젤리
 
 - 2016-09-08 ~ 2017-08-01 (11개월)
-- On-premise 솔루션 구축 엔지니어로 입사하여 솔루션 고도화 개발 및 유지보수 업무를 수행했습니다.
+- On-premise 솔루션 구축 엔지니어로 입사해 솔루션 고도화 개발 및 유지보수 업무를 수행했습니다.
 
 ## 사용 기술
 - Python, Django, MySQL, Nginx, AngularJS, Bash, Vagrant

@@ -1,19 +1,20 @@
 # 아하앤컴퍼니
 
 - 2021-11-15 ~ 2024-08-20 (2년 7개월)
-- BE 엔지니어로 합류하여 주도적으로 프로젝트를 수행했습니다.
+- BE 개발자로 합류해 프로젝트를 주도했습니다.
 
 ## 사용 기술
-- Typescript, Nestjs, Mysql, Pgsql, Nx, OpenAPI, AWS
+- TS, NestJS, TypeORM, BullJS, Pgsql, Nx, OpenAPI, AWS ECS, AWS RDS
 
 ## 주요 프로젝트
 
 ### Mono-repo 도입 및 코드베이스 개선
-- 목적: 기술 부채 개선, 팀원들의 코드베이스 이해도 개선
+
+- 목적: 기술 부채 해소 및 코드베이스 이해도 향상
 - 기간: 10개월
 - 인원: 3명
 - 역할 및 기여: 설계 참여 및 주요 공통 기능 개발, 70%
-- 환경: Typescript, Nestjs, Mysql, Pgsql, Nx, OpenAPI, AWS
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, Nx, OpenAPI, AWS ECS, AWS RDS
 - 주요 성과:
   - E2E 테스트 도입 및 개선
     - 16개 API, 100여 개의 엔드포인트의 90% 이상을 E2E 테스트로 작성 및 유지보수
@@ -32,7 +33,7 @@
 - 기간: 2개월
 - 인원: 1명
 - 역할 및 기여: 개발, 100%
-- 환경: Typescript, NestJS, Redis, Pgsql, Bulljs
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, AWS ECS, AWS RDS
 - 주요 성과:
   - 써드파티와 협업하여 오퍼월 광고 시스템 설계 및 구현
 
@@ -41,18 +42,18 @@
 - 기간: 1년 6개월
 - 인원: 2명
 - 역할 및 기여: 개발, 70%
-- 환경: Typescript, NestJS, Redis, Pgsql
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, AWS ECS, AWS RDS
 - 주요 성과:
   - 세무사 등 전문가들이 손쉽게 홈페이지를 만들 수 있는 기능을 개발
   - 사용자가 전문가와 상담을 신청하고 관리할 수 있는 기능을 구축
-  - 써드파티 서비스를 활용해 상담 관리 기능을 구현하고, 재사용할 수 있도록 공통 라이브러리로 구성
+  - 써드파티 상담 관리 기능을 공통 라이브러리화하여 재사용성 확보
 
 ### 구독형 멤버십 기능 구현
 - 목적: 수익 구조 개선
 - 기간: 4개월
 - 인원: 3명
 - 역할 및 기여: 개발, 70%
-- 환경: Typescript, NestJS, Redis, Pgsql, Bulljs
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, AWS ECS, AWS RDS
 - 주요 성과:
   - 사용자가 월 정기 결제를 통해 특정 활동을 통해 토큰 보상을 받거나, 빠른 답변 등의 서비스를 받을 수 있는 구독형 멤버십 기능을 개발
 
@@ -61,19 +62,19 @@
 - 기간: 2개월
 - 인원: 1명
 - 역할 및 기여: 개발, 100%
-- 환경: Typescript, NestJS, Redis, Pgsql
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, AWS ECS, AWS RDS
 - 주요 성과:
   - 서비스 내 지면 광고와 전문가 유료 배너 카드 등 다양한 광고 기능을 구현
   - 써드파티 솔루션을 기반으로 광고 성과 추적 시스템을 개발하여 광고주에게 데이터를 제공
 
-### Typescript 및 NestJS 도입
-- 목적: Typescript와 NestJS를 도입하여 코드 품질을 개선하고 생산성을 향상
+### Typescript/NestJS 마이그레이션
+- 목적: PHP/JS 레거시 시스템을 TS/NestJS로 전환하여 타입 안전성과 생산성 향상
 - 기간: 6개월
 - 인원: 2명
 - 역할 및 기여: 시스템 마이그레이션 및 개발, 70%
-- 환경: Typescript, NestJS, Redis, Pgsql, Bulljs
+- 환경: TS, NestJS, TypeORM, BullJS, Pgsql, AWS ECS, AWS RDS
 - 주요 성과:
-  - PHP Laravel 기반의 레거시 코드를 Typescript와 NestJS로 마이그레이션
+  - PHP Laravel 기반의 레거시 코드를 TS/NestJS로 마이그레이션
   - Redis 캐시 아키텍처 최적화
     - TTL 기반 Pre-fetch, 영구 캐시를 활용하여 인프라 비용 절감
     - 평균 응답 시간을 100ms로 개선

@@ -1,7 +1,7 @@
 # 세이브택스
 
 - 2017-08-07 ~ 2018-11-23 (1년 3개월)
-- 웹/앱 풀스택 개발자로 합류하여 다양한 프로젝트를 주도적으로 수행했습니다.
+- 웹/앱 풀스택 개발자로 합류해 다양한 프로젝트를 주도했습니다.
 
 ## 사용 기술
 - React, React Native, MobX, Nodejs, Express, MySQL, MariaDB, AWS EC2, AWS S3, Nginx
