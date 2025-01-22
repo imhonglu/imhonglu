@@ -4,9 +4,9 @@
 
 안녕하세요! 👋
 
-저는 8년 차 개발자로, 주로 TypeScript를 활용해 개발하고 있습니다. 과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발을 담당했으며, 현재는 오픈소스 프로젝트 [@imhonglu/new-wheels](https://github.com/imhonglu/new-wheels)를 통해 JSON Schema 2020-12 Draft를 구현하고 있습니다. 현재 테스트 통과율은 95.1%로, 완성도를 꾸준히 높여가고 있습니다.
+저는 8년 차 개발자로, 주로 TypeScript를 활용하여 애플리케이션을 개발하고 있습니다. 과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발을 맡았으며, 현재는 오픈소스 프로젝트 [@imhonglu/new-wheels](https://github.com/imhonglu/new-wheels)를 통해 JSON Schema 2020-12 Draft를 구현 중입니다. 95.1%의 테스트 커버리지를 유지하며 코드 품질을 강화하고 있습니다.
 
-제품을 설계하고 처음부터 개발하는 과정에 큰 흥미를 느끼며, 새로운 기술을 빠르게 습득하고 이를 적재적소에 적용하는 데 강점이 있습니다.
+제품 설계부터 개발까지 전 과정에 큰 흥미를 느끼며, 새로운 기술을 빠르게 배우고 이를 적재적소에 적용하는 데 강점이 있습니다.
 
 읽어주셔서 감사합니다!
 
@@ -20,4 +20,3 @@
 | 브레인크루 | Fullstack | 2018-12-10 ~ 2020-07-01 | 1년 6개월 | [더보기](./careers/3_braincrew.md) |
 | 세이브택스 | Fullstack | 2017-08-07 ~ 2018-11-23 | 1년 3개월 | [더보기](./careers/2_savetax.md) |
 | 뉴스젤리 | Fullstack | 2016-09-08 ~ 2017-08-01 | 10개월 | [더보기](./careers/1_newsjelly.md) |
-
