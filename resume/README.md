@@ -4,7 +4,7 @@
 
 안녕하세요! 👋
 
-저는 8년 차 개발자로, 주로 TypeScript를 활용해 개발하고 있습니다. 과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발을 담당했으며, 현재는 오픈소스 프로젝트 @imhonglu/new-wheels를 통해 JSON Schema 2020-12 Draft를 구현하고 있습니다. 현재 테스트 통과율은 95.1%로, 완성도를 꾸준히 높여가고 있습니다.
+저는 8년 차 개발자로, 주로 TypeScript를 활용해 개발하고 있습니다. 과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발을 담당했으며, 현재는 오픈소스 프로젝트 [@imhonglu/new-wheels](https://github.com/imhonglu/new-wheels)를 통해 JSON Schema 2020-12 Draft를 구현하고 있습니다. 현재 테스트 통과율은 95.1%로, 완성도를 꾸준히 높여가고 있습니다.
 
 제품을 설계하고 처음부터 개발하는 과정에 큰 흥미를 느끼며, 새로운 기술을 빠르게 습득하고 이를 적재적소에 적용하는 데 강점이 있습니다.
 
