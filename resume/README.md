@@ -13,9 +13,7 @@
 
 과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발자로 근무하며, 월간 활성 사용자(MAU) 1천만 명 이상을 지원하는 API 서비스를 설계·구축했습니다. 이와 함께 E2E 테스트를 도입하여 서비스 품질과 안정성을 대폭 개선한 경험이 있습니다.
 
-현재는 오픈소스 프로젝트 [@imhonglu/new-wheels](https://github.com/imhonglu/new-wheels)를 통해 JSON Schema 2020-12 Draft를 구현하고 있습니다. 데이터 검증 및 타입 안정성을 강화하며, 개발자 경험을 개선하는 데 중점을 두고 있습니다.
-
-저는 제품 설계부터 개발까지의 전 과정에 흥미를 느끼며, 새로운 기술 학습과 실무 적용에서 빠른 적응력과 실행력을 갖추고 있습니다.
+현재는 JSON Schema 2020-12 Draft 스펙을 구현한 [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README.md)를 개발하고 있습니다. 런타임 데이터 검증과 TypeScript 타입 추론을 통해 타입 안정성을 보장하며, 직관적인 API 설계로 개발자 경험 향상에 주력하고 있습니다.
 
 ## 경력사항
 
