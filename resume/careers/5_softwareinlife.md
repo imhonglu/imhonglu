@@ -13,7 +13,7 @@
 
 ### Participation in Next-Generation ERP Project
 
-- **Purpose:** Develop the next-generation ERP system
+- **Objective:** Develop the next-generation ERP system
 - **Duration:** 6 months
 - **Team Size:** 3 members
 - **Role & Contribution:** Team lead and 60% development
@@ -31,7 +31,7 @@
 
 ### React-Based Teams Addon Performance Optimization
 
-- **Purpose:** Optimize performance of React-based Teams Addon
+- **Objective:** Optimize performance of React-based Teams Addon
 - **Duration:** 1 week
 - **Team Size:** 1 member
 - **Role & Contribution:** 100% development

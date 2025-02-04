@@ -13,7 +13,7 @@
 
 ### [Learn A Day](https://learnaday.kr/) Launch and Operation (Service Discontinued)
 
-- **Purpose:** Launched and operated an online/offline education platform
+- **Objective:** Launched and operated an online/offline education platform
 - **Duration:** 10 months
 - **Team Size:** 2 members
 - **Role & Contribution:** Development 80%
@@ -34,7 +34,7 @@
 
 ### [LetterPlus](https://letter.plus/) Launch and Operation (Service Discontinued)
 
-- **Purpose:** Launched and operated a platform for curating academy news and creating mobile newsletters
+- **Objective:** Launched and operated a platform for curating academy news and creating mobile newsletters
 - **Duration:** 6 months
 - **Team Size:** 2 members
 - **Role & Contribution:** Development 80%

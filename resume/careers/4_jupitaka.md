@@ -13,7 +13,7 @@
 
 ### Next-Generation App Development
 
-- **Purpose:** Development of the next-generation app
+- **Objective:** Development of the next-generation app
 - **Duration:** 9 months
 - **Team Size:** 2 members
 - **Role & Contribution:** Team lead and 70% development involvement

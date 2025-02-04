@@ -13,7 +13,7 @@
 
 ### Data Visualization Solution Installation and Maintenance
 
-- **Purpose:** Installation and maintenance of a data visualization solution  
+- **Objective:** Installation and maintenance of a data visualization solution  
 - **Duration:** Ongoing  
 - **Team Size:** 1 member  
 - **Role & Contribution:** Development 100%  
@@ -28,7 +28,7 @@
 
 ### Bash-based CLI Tool Development
 
-- **Purpose:** Automation and standardization of on-premise solution deployment in enterprise Linux environments  
+- **Objective:** Automation and standardization of on-premise solution deployment in enterprise Linux environments  
 - **Duration:** 2 months  
 - **Team Size:** 1 member  
 - **Role & Contribution:** Development 100%  

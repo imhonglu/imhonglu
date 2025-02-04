@@ -13,7 +13,7 @@
 
 ### Android Behavior Mocking Library
 
-- **Purpose:** Developed a library to automate mobile device testing through keyboard input
+- **Objective:** Developed a library to automate mobile device testing through keyboard input
 - **Duration:** 1 month
 - **Team Size:** 1 member
 - **Role & Contribution:** Development 100%
@@ -26,7 +26,7 @@
 
 ### Tax Agent App Prototype Development (POC Stage)
 
-- **Purpose:** Developed the prototype for the tax agent app
+- **Objective:** Developed the prototype for the tax agent app
 - **Duration:** 4 months
 - **Team Size:** 1 member
 - **Role & Contribution:** Development 100%
@@ -40,7 +40,7 @@
 
 ### Company Website Development
 
-- **Purpose:** Developed a responsive website for corporate branding
+- **Objective:** Developed a responsive website for corporate branding
 - **Duration:** 2 months
 - **Team Size:** 1 member
 - **Role & Contribution:** Development 100%
