@@ -6,5 +6,3 @@
 새로운 팀을 찾고 있습니다.
 읽어주셔서 감사합니다.
 [이력서 바로가기](./resume/README_KR.md)
-
-I am currently developing [@imhonglu/json-schema](...), which implements the JSON Schema 2020-12 Draft specification.
