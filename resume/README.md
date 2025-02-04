@@ -23,12 +23,12 @@ This project combines runtime data validation with TypeScript type inference, en
 
 | Company | Position | Employment Period | Duration | Details |
 | --- | --- | --- | --- | --- |
-| Aha & Company | Backend | 2021-11-15 ~ 2024-08-20 | 2 years 7 months | [View More](./careers/6_ahancompany.md) |
-| Software in Life | FE Lead | 2021-04-26 ~ 2021-11-12 | 6 months | [View More](./careers/5_softwareinlife.md) |
+| Aha&Company | Backend | 2021-11-15 ~ 2024-08-20 | 2 years 7 months | [View More](./careers/6_ahancompany.md) |
+| SoftwareInLife | FE Lead | 2021-04-26 ~ 2021-11-12 | 6 months | [View More](./careers/5_softwareinlife.md) |
 | Jupitaka | FE Lead | 2020-07-01 ~ 2021-04-05 | 9 months | [View More](./careers/4_jupitaka.md) |
-| Brain Crew | Fullstack | 2018-12-10 ~ 2020-07-01 | 1 year 6 months | [View More](./careers/3_braincrew.md) |
-| Save Tax | Fullstack | 2017-08-07 ~ 2018-11-23 | 1 year 3 months | [View More](./careers/2_savetax.md) |
-| News Jelly | Fullstack | 2016-09-08 ~ 2017-08-01 | 10 months | [View More](./careers/1_newsjelly.md) |
+| BrainCrew | Fullstack | 2018-12-10 ~ 2020-07-01 | 1 year 6 months | [View More](./careers/3_braincrew.md) |
+| SaveTax | Fullstack | 2017-08-07 ~ 2018-11-23 | 1 year 3 months | [View More](./careers/2_savetax.md) |
+| NewsJelly | Fullstack | 2016-09-08 ~ 2017-08-01 | 10 months | [View More](./careers/1_newsjelly.md) |
 
 ## Additional Information
 

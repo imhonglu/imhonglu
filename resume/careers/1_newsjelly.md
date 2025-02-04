@@ -1,6 +1,6 @@
-[Resume](../README.md) &gt; [News Jelly](./1_newsjelly.md)
+[Resume](../README.md) &gt; [NewsJelly](./1_newsjelly.md)
 
-# News Jelly
+# NewsJelly
 
 - **2016-09-08 ~ 2017-08-01 (11 months)**
 - Joined as a Solution Engineer, responsible for building data visualization solutions and deployment automation.

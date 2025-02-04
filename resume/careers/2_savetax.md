@@ -1,6 +1,6 @@
-[Resume](../README.md) &gt; [Save Tax](./2_savetax.md)
+[Resume](../README.md) &gt; [SaveTax](./2_savetax.md)
 
-# Save Tax
+# SaveTax
 
 - **2017-08-07 ~ 2018-11-23 (1 year 3 months)**
 - Joined as an initial developer and was responsible for the prototype development of a tax management app and internal tool development.

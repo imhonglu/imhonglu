@@ -1,6 +1,6 @@
-[Resume](../README.md) &gt; [Brain Crew](./3_braincrew.md)
+[Resume](../README.md) &gt; [BrainCrew](./3_braincrew.md)
 
-# Brain Crew
+# BrainCrew
 
 - **2018-12-10 ~ 2020-07-01 (1 year 6 months)**
 - Joined as an initial developer, successfully launching 2 services and taking responsibility for infrastructure design and management.
