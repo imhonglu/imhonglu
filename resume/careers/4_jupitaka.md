@@ -1,28 +1,28 @@
-[Resume](../README.md) > [Jupitaka](./4_jupitaka.md)
+[Resume](../README.md) &gt; [Jupitaka](./4_jupitaka.md)
 
 # Jupitaka
 
 - **2020-07-01 ~ 2021-04-05 (9 months)**
-- Joined as a FE developer, responsible for next-generation app development and design system implementation.
+- Joined as a Front-End Developer and was responsible for the development of the next-generation app and the establishment of a design system.
 
 ## Key Technology Stack
 
 - **TS, React, React-Native, MobX, Emotion, Storybook, Lerna**
 
-## Major Projects
+## Key Projects
 
 ### Next-Generation App Development
 
-- **Purpose:** Development of next-generation application
+- **Purpose:** Development of the next-generation app
 - **Duration:** 9 months
-- **Team Size:** 2 people
-- **Role & Contribution:** Team Lead and Development 70%
+- **Team Size:** 2 members
+- **Role & Contribution:** Team lead and 70% development involvement
 - **Environment:** TS, React, React-Native, MobX, Emotion, Storybook, Lerna
 - **Details:**
-  - Introduced and implemented TypeScript
-  - Designed and built Monorepo architecture based on Lerna
-  - Developed and documented component library using Storybook
-  - Implemented PR review process and pair programming practices
+  - Introduced and applied TypeScript
+  - Designed and implemented a Monorepo structure using Lerna
+  - Developed and documented a component library based on Storybook
+  - Implemented PR review processes and pair programming
 - **Key Achievements:**
-  - **Improved code quality** and **enhanced development productivity**
-  - **Increased UI consistency and efficiency** through design system implementation
+  - **Improved code quality** and **increased development productivity**
+  - **Built a design system, enhancing UI consistency and efficiency**

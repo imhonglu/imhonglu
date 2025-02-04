@@ -1,52 +1,52 @@
-[Resume](../README.md) > [Brain Crew](./3_braincrew.md)
+[Resume](../README.md) &gt; [Brain Crew](./3_braincrew.md)
 
 # Brain Crew
 
 - **2018-12-10 ~ 2020-07-01 (1 year 6 months)**
-- Joined as an early developer, successfully launched two services and managed infrastructure design and operations.
+- Joined as an initial developer, successfully launching 2 services and taking responsibility for infrastructure design and management.
 
 ## Key Technology Stack
 
 - **React, MobX, Styled-Components, react-beautiful-dnd, React-Helmet, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS SES, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit**
 
-## Major Projects
+## Key Projects
 
-### [Learn A Day](https://learnaday.kr/) Launch and Operation (Discontinued)
+### [Learn A Day](https://learnaday.kr/) Launch and Operation (Service Discontinued)
 
-- **Purpose:** Launch and operation of online/offline education platform
+- **Purpose:** Launched and operated an online/offline education platform
 - **Duration:** 10 months
-- **Team Size:** 2 people
+- **Team Size:** 2 members
 - **Role & Contribution:** Development 80%
 - **Environment:** React, MobX, Styled-Components, React-Helmet, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 - **Details:**
-  - Designed ERD and optimized DB structure
-  - Designed and implemented JWT-based RESTful APIs (directory-based dynamic routing)
-  - Built AWS-based CI/CD pipeline
-  - Implemented Google, Naver OAuth2.0 social login
-  - MobX state management and component re-rendering optimization
+  - Designed ERD and optimized database structure
+  - Designed and implemented a JWT-based RESTful API (Directory-based dynamic routing)
+  - Built an AWS-based CI/CD pipeline
+  - Integrated Google and Naver OAuth2.0 for social login
+  - Optimized MobX state management and component re-rendering
   - Developed instructor and learner dashboards
-      - Integrated PG payment system
-      - Developed real-time learning progress management system
-  - Developed Quilljs-based custom editor (clipboard control and markup filtering for security)
+      - Integrated payment gateway (PG) system
+      - Developed real-time learning progress tracking system for users
+  - Developed a custom editor based on Quilljs (with security considerations for clipboard control and markup filtering)
   - Optimized SEO using React-Helmet
 - **Key Achievements:**
-  - **Successfully launched and operated** online/offline education platform
+  - Successfully launched and stabilized the **online/offline education platform**
 
-### [Letter Plus](https://letter.plus/) Launch and Operation (Discontinued)
+### [LetterPlus](https://letter.plus/) Launch and Operation (Service Discontinued)
 
-- **Purpose:** Launch and operation of academy education news curation and mobile newsletter creation platform
+- **Purpose:** Launched and operated a platform for curating academy news and creating mobile newsletters
 - **Duration:** 6 months
-- **Team Size:** 2 people
+- **Team Size:** 2 members
 - **Role & Contribution:** Development 80%
 - **Environment:** React, MobX, Styled-Components, react-beautiful-dnd, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS SES, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 - **Details:**
-  - Designed ERD and optimized DB structure
-  - Designed and implemented JWT-based RESTful APIs (directory-based dynamic routing)
-  - Built AWS-based CI/CD pipeline
-  - Built newsletter delivery system
-      - Developed template editing interface based on react-beautiful-dnd
-      - Implemented SMS and email delivery through external service integration
-  - Implemented recipient management with Excel/CSV import/export functionality
+  - Designed ERD and optimized database structure
+  - Designed and implemented a JWT-based RESTful API (Directory-based dynamic routing)
+  - Built an AWS-based CI/CD pipeline
+  - Developed a newsletter sending system
+      - Developed a template editing interface using react-beautiful-dnd
+      - Integrated external services for SMS and email sending functionalities
+  - Implemented recipient management and import/export features using Excel/CSV
   - Optimized HTML/CSS for email client compatibility
 - **Key Achievements:**
-  - **Successfully launched and operated** newsletter platform
+  - Successfully launched and stabilized the **newsletter platform**

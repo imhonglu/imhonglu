@@ -1,111 +1,111 @@
-[Resume](../README.md) > [Aha & Company](./6_ahancompany.md)
+[Resume](../README.md) &gt; [Aha&Company](./6_ahancompany.md)
 
-# Aha & Company
+# Aha&Company
 
 - **2021-11-15 ~ 2024-08-20 (2 years 7 months)**
-- Focused on backend system design and core feature development, supporting a large-scale service with over 10 million monthly active users (MAU).
+- Contributed to backend system design and development of key common functionalities in large-scale services supporting over 10 million monthly active users (MAU).
 
 ## Key Technology Stack
 
 - **TS, NestJS, TypeORM, BullJS, PgSQL, Nx, OpenAPI, AWS ECS, AWS RDS, AWS ElastiCache**
 
-## Major Projects
+## Key Projects
 
-### Mono-repo Implementation and Codebase Enhancement
+### Nx-based Mono-repo Adoption & Codebase Improvement
 
-- **Purpose:** Technical debt resolution, codebase understanding improvement, development productivity increase
+- **Objective:** Address technical debt, improve codebase comprehension, and enhance developer productivity
 - **Duration:** 10 months
-- **Team Size:** 4 people
+- **Team Size:** 4 members
 - **Role & Contribution:** Design participation, 60% development
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, Nx, OpenAPI, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - Designed and implemented Nx-based Mono-repo architecture
-  - Implemented common features and ERD design
-  - Enhanced xFetch-based caching strategy and implemented cache-DBMS mapping layer
-  - Developed OpenAPI spec-based Transpiler for automatic API SDK generation and deployment
+  - Designed and implemented Nx-based Mono-repo structure
+  - Developed common features and designed ERD
+  - Improved caching strategy based on `xFetch` and implemented cache-DBMS mapping layer
+  - Developed API SDK automation and deployment via OpenAPI-based transpiler
   - Introduced E2E testing with third-party service mocking environment
-  - Advanced type system for core business logic
+  - Enhanced type system for critical business logic
 - **Key Achievements:**
-  - Achieved **95%+ coverage** with **E2E test implementation**, minimizing runtime errors
-  - Improved API response time and data processing efficiency through **cache strategy optimization**
-  - Enhanced backend-frontend collaboration through **API SDK automation**
-  - Increased code safety and development productivity through **strengthened type system**
+  - **Introduced E2E testing**, achieving over **95% coverage** and minimized runtime errors
+  - **Optimized caching strategy**, improving API response speed and data processing efficiency
+  - **Automated API SDK generation**, enhancing collaboration between backend and frontend teams
+  - **Strengthened type system**, improving code safety and boosting developer productivity
 
 ### Offerwall Advertising Project
 
-- **Purpose:** Revenue structure improvement through offerwall advertising system implementation
+- **Objective:** Improve revenue structure by implementing offerwall advertising system
 - **Duration:** 2 months
-- **Team Size:** 1 person
-- **Role & Contribution:** 100% design and development
+- **Team Size:** 1 member
+- **Role & Contribution:** Design and development, 100% contribution
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - ERD design and RESTful API implementation
-  - Redis-based buffer layer construction and data synchronization
-  - Composite index creation and response data validation
-  - Token market price-based reward confirmation system implementation
+  - Designed ERD and implemented RESTful API
+  - Built Redis-based buffer layer and ensured data synchronization
+  - Created composite indexes and handled response data validation
+  - Developed token-based reward confirmation system
 - **Key Achievements:**
-  - Data synchronization and response optimization through **Redis buffer layer**
-  - Enhanced advertising system stability and performance through **traffic handling design improvement**
-  - Built stable advertising system for **revenue generation optimization**
+  - **Implemented Redis buffer layer** for data synchronization and optimized responses
+  - Improved **traffic handling design**, enhancing the stability and performance of the ad system
+  - Built a **stable advertising system**, optimizing revenue generation
 
-### Expert Homepage / Expert Consultation Project
+### Expert Website & Consultation Project
 
-- **Purpose:** Homepage provision for experts and consultation management system implementation
+- **Objective:** Provide websites for experts and build consultation management system
 - **Duration:** 6 months
-- **Team Size:** 2 people
+- **Team Size:** 2 members
 - **Role & Contribution:** Design participation, 70% development
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - ERD design participation
-  - RESTful API design and implementation
-  - Type-safe third-party SDK implementation using OpenAPI spec
+  - Participated in ERD design
+  - Designed and implemented RESTful API
+  - Developed type-safe third-party SDK using OpenAPI specification
 - **Key Achievements:**
-  - Enhanced backend collaboration productivity through **OpenAPI-based third-party SDK implementation**
-  - Improved **service value and user experience** through expert homepage and consultation features
+  - **Developed third-party SDK** using OpenAPI, improving collaboration with backend teams
+  - Improved **service value and user experience** by introducing expert websites and consultation features
 
 ### Membership Project
 
-- **Purpose:** Revenue structure improvement through subscription-based membership implementation
+- **Objective:** Improve revenue structure through subscription-based membership
 - **Duration:** 4 months
-- **Team Size:** 3 people
+- **Team Size:** 3 members
 - **Role & Contribution:** Design participation, 60% development
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - ERD design participation and RESTful API implementation
-  - PG-based monthly recurring payment feature development
-  - Payment date correction logic implementation
+  - Participated in ERD design and implemented RESTful API
+  - Developed PG-based recurring payment functionality
+  - Implemented payment date adjustment logic
 - **Key Achievements:**
-  - Introduced subscription-based membership through **recurring payment system design**
-  - Strengthened **revenue stability** through **revenue model diversification**
+  - Designed **recurring payment system** for subscription-based memberships
+  - Strengthened **revenue stability** through **diversified revenue models**
 
 ### In-Service Advertising Project
 
-- **Purpose:** Revenue structure improvement through advertising feature implementation
+- **Objective:** Enhance revenue structure by adding advertising features
 - **Duration:** 2 months
-- **Team Size:** 2 people
+- **Team Size:** 2 members
 - **Role & Contribution:** Design participation, 60% development
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - ERD design participation and RESTful API implementation
-  - Third-party advertising performance tracking system implementation
+  - Participated in ERD design and implemented RESTful API
+  - Implemented third-party ad performance tracking system
 - **Key Achievements:**
-  - **Service revenue structure expansion** through display and banner advertising system implementation
+  - Expanded **service revenue structure** by introducing display and banner advertising systems
 
-### TS Introduction and NestJS Migration
+### TS Adoption & NestJS Migration
 
-- **Purpose:** Legacy system transition to TS-based NestJS for enhanced maintainability and type safety
+- **Objective:** Migrate legacy system to TS-based NestJS to enhance maintainability and type safety
 - **Duration:** 6 months
-- **Team Size:** 2 people
-- **Role & Contribution:** 70% system design and migration
+- **Team Size:** 2 members
+- **Role & Contribution:** System design and migration, 70% contribution
 - **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
 - **Details:**
-  - Legacy system analysis and type definition
-  - TypeORM Query Builder Wrapper development for strong typing
-  - Redis-based cache layer introduction
-  - Messaging system improvement: async queue transition and bulk sending optimization
-  - Common module packageization and Private NPM Registry setup
-  - Admin dashboard prototyping
+  - Analyzed legacy system and defined types
+  - Developed TypeORM Query Builder Wrapper for strong typing
+  - Introduced Redis-based cache layer
+  - Improved messaging system: Migrated to asynchronous queues and optimized bulk message dispatch
+  - Modularized common modules and set up private NPM registry
+  - Prototyped an admin dashboard
 - **Key Achievements:**
-  - **API response time reduced to under 100ms** and **concurrent user capacity increased 3x+** through Redis cache and messaging system optimization
-  - **90%+ reduction in runtime errors** through strengthened type system
-  - Enhanced message processing efficiency through bulk sending system optimization
+  - Optimized **Redis caching and messaging systems**, reducing API response time to **below 100ms** and increasing concurrent users by over 3x
+  - Enhanced **type system**, reducing runtime errors by **over 90%**
+  - **Optimized bulk messaging system**, improving message processing efficiency
