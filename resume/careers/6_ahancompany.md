@@ -1,111 +1,111 @@
-[이력서](../README.md) &gt; [아하앤컴퍼니](./6_ahancompany.md)
+[Resume](../README.md) > [Aha & Company](./6_ahancompany.md)
 
-# 아하앤컴퍼니
+# Aha & Company
 
-- **2021-11-15 ~ 2024-08-20 (2년 7개월)**
-- 월간 활성 사용자(MAU) 1천만 명 이상의 대규모 서비스를 지원하며, 백엔드 시스템 설계와 주요 기능 개발에 주력했습니다.
+- **2021-11-15 ~ 2024-08-20 (2 years 7 months)**
+- Focused on backend system design and core feature development, supporting a large-scale service with over 10 million monthly active users (MAU).
 
-## 주요 기술 스택
+## Key Technology Stack
 
 - **TS, NestJS, TypeORM, BullJS, PgSQL, Nx, OpenAPI, AWS ECS, AWS RDS, AWS ElastiCache**
 
-## 주요 프로젝트
+## Major Projects
 
-### Mono-repo 도입 및 코드베이스 개선
+### Mono-repo Implementation and Codebase Enhancement
 
-- **목적:** 기술 부채 해소, 코드베이스 이해도 향상, 개발 생산성 증대
-- **기간:** 10개월
-- **인원:** 4명
-- **역할 및 기여:** 설계 참여, 개발 60%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, Nx, OpenAPI, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - Nx 기반 Mono-repo 구조 설계 및 구현
-  - 공통 기능 구현 및 ERD 설계
-  - xFetch 기반 캐싱 전략 개선 및 캐시-DBMS 매핑 레이어 구현
-  - OpenAPI 스펙 기반 Transpiler 개발을 통한 API SDK 자동 생성 및 배포
-  - 써드파티 서비스 Mocking 환경을 포함한 E2E 테스트 도입
-  - 핵심 비즈니스 로직의 타입 시스템 고도화
-- **주요 성과:**
-  - **E2E 테스트 도입**으로 **95% 이상** 커버리지 달성, 런타임 오류 최소화
-  - **캐시 전략 최적화**로 API 응답 속도 향상 및 데이터 처리 효율성 증가
-  - **API SDK 자동화**로 백엔드와 프론트엔드 간 협업 효율 증대
-  - **타입 시스템 강화**로 코드 안전성 향상 및 개발 생산성 증대
+- **Purpose:** Technical debt resolution, codebase understanding improvement, development productivity increase
+- **Duration:** 10 months
+- **Team Size:** 4 people
+- **Role & Contribution:** Design participation, 60% development
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, Nx, OpenAPI, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - Designed and implemented Nx-based Mono-repo architecture
+  - Implemented common features and ERD design
+  - Enhanced xFetch-based caching strategy and implemented cache-DBMS mapping layer
+  - Developed OpenAPI spec-based Transpiler for automatic API SDK generation and deployment
+  - Introduced E2E testing with third-party service mocking environment
+  - Advanced type system for core business logic
+- **Key Achievements:**
+  - Achieved **95%+ coverage** with **E2E test implementation**, minimizing runtime errors
+  - Improved API response time and data processing efficiency through **cache strategy optimization**
+  - Enhanced backend-frontend collaboration through **API SDK automation**
+  - Increased code safety and development productivity through **strengthened type system**
 
-### 오퍼월 광고 프로젝트
+### Offerwall Advertising Project
 
-- **목적:** 오퍼월 광고 시스템 도입으로 수익 구조 개선
-- **기간:** 2개월
-- **인원:** 1명
-- **역할 및 기여:** 설계 및 개발 100%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - ERD 설계 및 RESTful API 구현
-  - Redis 기반 버퍼 레이어 구축 및 데이터 동기화
-  - 복합 인덱스 생성 및 응답 데이터 검증 처리
-  - 토큰 시세 기반 보상 확정 시스템 구현
-- **주요 성과:**
-  - **Redis 버퍼 레이어**로 데이터 동기화 및 응답 최적화
-  - **트래픽 처리 설계 개선**으로 광고 시스템의 안정성 및 성능 강화
-  - **수익 창출 최적화**를 위한 안정적 광고 시스템 구축
+- **Purpose:** Revenue structure improvement through offerwall advertising system implementation
+- **Duration:** 2 months
+- **Team Size:** 1 person
+- **Role & Contribution:** 100% design and development
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - ERD design and RESTful API implementation
+  - Redis-based buffer layer construction and data synchronization
+  - Composite index creation and response data validation
+  - Token market price-based reward confirmation system implementation
+- **Key Achievements:**
+  - Data synchronization and response optimization through **Redis buffer layer**
+  - Enhanced advertising system stability and performance through **traffic handling design improvement**
+  - Built stable advertising system for **revenue generation optimization**
 
-### 전문가 홈페이지 / 전문가 상담 프로젝트
+### Expert Homepage / Expert Consultation Project
 
-- **목적:** 전문가에게 홈페이지 제공 및 상담 관리 시스템 구축
-- **기간:** 6개월
-- **인원:** 2명
-- **역할 및 기여:** 설계 참여, 개발 70%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - ERD 설계 참여
-  - RESTful API 설계 및 구현
-  - OpenAPI 스펙을 활용한 타입 안전 써드파티 SDK 구현
-- **주요 성과:**
-  - **OpenAPI 기반 써드파티 SDK 구현**으로 백엔드 협업 생산성 향상
-  - 전문가 홈페이지 및 상담 기능 도입으로 **서비스 가치와 사용자 경험** 개선
+- **Purpose:** Homepage provision for experts and consultation management system implementation
+- **Duration:** 6 months
+- **Team Size:** 2 people
+- **Role & Contribution:** Design participation, 70% development
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - ERD design participation
+  - RESTful API design and implementation
+  - Type-safe third-party SDK implementation using OpenAPI spec
+- **Key Achievements:**
+  - Enhanced backend collaboration productivity through **OpenAPI-based third-party SDK implementation**
+  - Improved **service value and user experience** through expert homepage and consultation features
 
-### 멤버십 프로젝트
+### Membership Project
 
-- **목적:** 구독형 멤버십 도입으로 수익 구조 개선
-- **기간:** 4개월
-- **인원:** 3명
-- **역할 및 기여:** 설계 참여, 개발 60%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - ERD 설계 참여 및 RESTful API 구현
-  - PG 기반 월 정기 결제 기능 개발
-  - 결제일 보정 로직 구현
-- **주요 성과:**
-  - **정기 결제 시스템 설계**로 구독형 멤버십 도입
-  - **수익 모델 다각화**를 통해 **매출 안정성 강화**
+- **Purpose:** Revenue structure improvement through subscription-based membership implementation
+- **Duration:** 4 months
+- **Team Size:** 3 people
+- **Role & Contribution:** Design participation, 60% development
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - ERD design participation and RESTful API implementation
+  - PG-based monthly recurring payment feature development
+  - Payment date correction logic implementation
+- **Key Achievements:**
+  - Introduced subscription-based membership through **recurring payment system design**
+  - Strengthened **revenue stability** through **revenue model diversification**
 
-### 인서비스 광고 프로젝트
+### In-Service Advertising Project
 
-- **목적:** 광고 기능 도입으로 수익 구조 개선
-- **기간:** 2개월
-- **인원:** 2명
-- **역할 및 기여:** 설계 참여, 개발 60%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - ERD 설계 참여 및 RESTful API 구현
-  - 써드파티 광고 성과 추적 시스템 구현
-- **주요 성과:**
-  - 지면 광고 및 배너 광고 시스템 도입으로 **서비스 수익 구조 확장**
+- **Purpose:** Revenue structure improvement through advertising feature implementation
+- **Duration:** 2 months
+- **Team Size:** 2 people
+- **Role & Contribution:** Design participation, 60% development
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - ERD design participation and RESTful API implementation
+  - Third-party advertising performance tracking system implementation
+- **Key Achievements:**
+  - **Service revenue structure expansion** through display and banner advertising system implementation
 
-### TS 도입 및 NestJS 마이그레이션
+### TS Introduction and NestJS Migration
 
-- **목적:** 레거시 시스템을 TS 기반 NestJS로 전환하여 유지보수성과 타입 안전성 강화
-- **기간:** 6개월
-- **인원:** 2명
-- **역할 및 기여:** 시스템 설계 및 마이그레이션 70%
-- **환경:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
-- **내용:**
-  - 레거시 시스템 분석 및 타입 정의
-  - TypeORM Query Builder Wrapper 개발을 통한 강타입 제공
-  - Redis 기반 캐시 레이어 도입
-  - 메시징 시스템 개선: 비동기 큐 전환 및 대량 발송 최적화
-  - 공통 모듈 패키지화 및 Private NPM Registry 구축
-  - 관리자 대시보드 프로토타이핑
-- **주요 성과:**
-  - **Redis 캐시와 메시징 시스템 최적화**로 API 응답 시간 **100ms 이내 단축**, **동시 접속자 수 3배 이상 증가**
-  - **타입 시스템 강화**로 런타임 오류 **90% 이상 감소**
-  - **대량 발송 시스템 최적화**로 메시지 처리 효율 향상
+- **Purpose:** Legacy system transition to TS-based NestJS for enhanced maintainability and type safety
+- **Duration:** 6 months
+- **Team Size:** 2 people
+- **Role & Contribution:** 70% system design and migration
+- **Environment:** TS, NestJS, TypeORM, BullJS, PgSQL, AWS ECS, AWS RDS, AWS ElastiCache
+- **Details:**
+  - Legacy system analysis and type definition
+  - TypeORM Query Builder Wrapper development for strong typing
+  - Redis-based cache layer introduction
+  - Messaging system improvement: async queue transition and bulk sending optimization
+  - Common module packageization and Private NPM Registry setup
+  - Admin dashboard prototyping
+- **Key Achievements:**
+  - **API response time reduced to under 100ms** and **concurrent user capacity increased 3x+** through Redis cache and messaging system optimization
+  - **90%+ reduction in runtime errors** through strengthened type system
+  - Enhanced message processing efficiency through bulk sending system optimization

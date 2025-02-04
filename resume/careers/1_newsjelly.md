@@ -1,43 +1,43 @@
-[이력서](../README.md) &gt; [뉴스젤리](./1_newsjelly.md)
+[Resume](../README.md) > [News Jelly](./1_newsjelly.md)
 
-# 뉴스젤리
+# News Jelly
 
-- **2016-09-08 ~ 2017-08-01 (11개월)**
-- 솔루션 엔지니어로 합류하여 데이터 시각화 솔루션 구축과 배포 자동화 프로세스를 주도했습니다.
+- **2016-09-08 ~ 2017-08-01 (11 months)**
+- Joined as a Solution Engineer, leading data visualization solution deployment and automation of deployment processes.
 
-## 주요 기술 스택
+## Key Technology Stack
 
 - **Python, Django, Django Rest Framework, Gunicorn, MySQL, Nginx, AngularJS, Vagrant, Bash**
 
-## 주요 프로젝트
+## Major Projects
 
-### 데이터 시각화 솔루션 설치 및 유지보수
+### Data Visualization Solution Installation and Maintenance
 
-- **목적:** 데이터 시각화 솔루션 설치 및 유지보수
-- **기간:** 지속적
-- **인원:** 1명
-- **역할 및 기여:** 개발 100%
-- **환경:** Python Django, Django Rest Framework, Gunicorn, MySQL, Nginx, AngularJS
-- **내용:**
-  - 기관별 요구사항을 표준화하여 Django Admin 기능을 고도화
-  - 다양한 데이터 소스(DBMS, CSV, Excel) 통합 지원 인터페이스 개발
-  - 레거시 환경(IE8)과 최신 브라우저(Chrome, Firefox)에서 동시 지원을 위한 크로스 브라우저 호환성 구현
-- **주요 성과:**
-  - **다수의 공공기관에 성공적으로 솔루션을 구축하고 안정화**
-  - 데이터 시각화 솔루션의 사용 편의성과 안정성 향상
+- **Purpose:** Installation and maintenance of data visualization solution
+- **Duration:** Ongoing
+- **Team Size:** 1 person
+- **Role & Contribution:** Development 100%
+- **Environment:** Python Django, Django Rest Framework, Gunicorn, MySQL, Nginx, AngularJS
+- **Details:**
+  - Enhanced Django Admin functionality by standardizing organization-specific requirements
+  - Developed integrated support interface for various data sources (DBMS, CSV, Excel)
+  - Implemented cross-browser compatibility to support both legacy (IE8) and modern browsers (Chrome, Firefox)
+- **Key Achievements:**
+  - **Successfully deployed and stabilized solutions for multiple public institutions**
+  - Improved usability and stability of the data visualization solution
 
-### Bash 기반 CLI 도구 개발
+### Bash-based CLI Tool Development
 
-- **목적:** 엔터프라이즈 리눅스 환경에서 On-premise 솔루션의 배포 자동화 및 표준화
-- **기간:** 2개월
-- **인원:** 1명
-- **역할 및 기여:** 개발 100%
-- **환경:** Vagrant, Bash
-- **내용:**
-  - 다양한 리눅스 환경(RHEL 5-7, Ubuntu 10-12)에서 동작하는 통합 설치 스크립트 구현
-  - Python 2.7, MySQL 5.x, Nginx 등의 구성 요소를 자동으로 설치하고 설정하는 자동화 스크립트 개발
-  - Vagrant를 활용하여 테스트 환경을 구축하고 필드 테스트 수행
-  - 오프라인 및 최소 설치 환경에서도 동작할 수 있도록 패키지 번들링 작업 수행
-- **주요 성과:**
-  - **배포 자동화와 표준화를 통해 설치 프로세스를 간소화하고 효율성을 크게 향상**
-  - 배포 및 설치 과정에서 발생할 수 있는 오류를 최소화하여 안정성 확보
+- **Purpose:** Automation and standardization of on-premise solution deployment in enterprise Linux environments
+- **Duration:** 2 months
+- **Team Size:** 1 person
+- **Role & Contribution:** Development 100%
+- **Environment:** Vagrant, Bash
+- **Details:**
+  - Implemented unified installation scripts compatible with various Linux environments (RHEL 5-7, Ubuntu 10-12)
+  - Developed automation scripts for installing and configuring components like Python 2.7, MySQL 5.x, Nginx
+  - Built test environments using Vagrant and conducted field testing
+  - Performed package bundling to ensure functionality in offline and minimal installation environments
+- **Key Achievements:**
+  - **Significantly improved efficiency by automating and standardizing the deployment process**
+  - Enhanced stability by minimizing potential errors during deployment and installation

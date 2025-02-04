@@ -1,43 +1,43 @@
-[이력서](../README.md) &gt; [소프트웨어인라이프](./5_softwareinlife.md)
+[Resume](../README.md) > [Software in Life](./5_softwareinlife.md)
 
-# 소프트웨어인라이프
+# Software in Life
 
-- **2021-04-26 ~ 2021-11-12 (6개월)**
-- FE 개발자로 합류하여 3인 팀의 리드를 맡고, 디자인 시스템을 구축했습니다.
+- **2021-04-26 ~ 2021-11-12 (6 months)**
+- Joined as a FE developer, led a team of 3, and established a design system.
 
-## 주요 기술 스택
+## Key Tech Stack
 
 - **TS, React, MobX, Emotion, Storybook, Lerna**
 
-## 주요 프로젝트
+## Major Projects
 
-### 차세대 ERP 프로젝트 참여
+### Next Generation ERP Project
 
-- **목적:** 차세대 ERP 시스템 개발
-- **기간:** 6개월
-- **인원:** 3명
-- **역할 및 기여:** 팀 리드 및 개발 60%
-- **환경:** TS, React, MobX, Emotion, Storybook, Lerna
-- **내용:**
-  - Typescript 도입 및 적용
-  - Lerna 기반 Monorepo 구조 설계 및 구축
-  - Storybook 기반 컴포넌트 라이브러리 개발 및 문서화
-  - PR 리뷰 프로세스 및 페어 프로그래밍 도입
-  - MobX 기반 MVC 패턴 도입, 프론트엔드-백엔드 의존성 분리 및 테스트 용이성 확보
-  - 타입 안전한 Icon 컴포넌트 라이브러리 개발 (SVG → WebFont → 타입 지원 컴포넌트)
-- **주요 성과:**
-  - **코드 품질 개선** 및 **개발 생산성 향상**
-  - **디자인 시스템 구축**으로 UI 일관성 및 효율성 증대
+- **Purpose:** Development of next-generation ERP system
+- **Duration:** 6 months
+- **Team Size:** 3 members
+- **Role & Contribution:** Team Lead and 60% of development
+- **Environment:** TS, React, MobX, Emotion, Storybook, Lerna
+- **Details:**
+  - Introduced and implemented Typescript
+  - Designed and built Monorepo structure based on Lerna
+  - Developed and documented component library based on Storybook
+  - Introduced PR review process and pair programming
+  - Implemented MVC pattern with MobX, separated frontend-backend dependencies and secured testability
+  - Developed type-safe Icon component library (SVG → WebFont → Type-supported component)
+- **Key Achievements:**
+  - Improved **code quality** and enhanced **development productivity**
+  - Increased UI consistency and efficiency through **design system implementation**
 
-### React 기반 Teams Addon 성능 개선
+### React-based Teams Addon Performance Optimization
 
-- **목적:** React 기반 Teams Addon 성능 최적화
-- **기간:** 1주일
-- **인원:** 1명
-- **역할 및 기여:** 개발 100%
-- **환경:** JS, React
-- **내용:**
-  - React.lazy 기반 컴포넌트 모듈화
-  - Intersection Observer 기반 이미지 로딩 최적화
-- **주요 성과:**
-  - **LCP (Largest Contentful Paint)** 시간을 **5초 이상**에서 **200ms 이하**로 단축
+- **Purpose:** Performance optimization of React-based Teams Addon
+- **Duration:** 1 week
+- **Team Size:** 1 member
+- **Role & Contribution:** 100% development
+- **Environment:** JS, React
+- **Details:**
+  - Component modularization based on React.lazy
+  - Image loading optimization using Intersection Observer
+- **Key Achievements:**
+  - Reduced **LCP (Largest Contentful Paint)** time from **over 5 seconds** to **under 200ms**
