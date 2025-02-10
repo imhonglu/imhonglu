@@ -9,15 +9,15 @@
 
 ## 자기소개
 
-안녕하세요.  
+안녕하세요.
 
-저는 8년 차 개발자로, TypeScript를 활용해 효율적이고 유지보수가 쉬운 시스템을 개발해왔습니다.  
+저는 8년 차 개발자로, TypeScript를 활용해 **효율적이고 유지보수하기 쉬운 시스템**을 만들어 왔습니다.
 
-과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발자로 근무하며, 월간 활성 사용자(MAU) 1천만 명 이상을 지원하는 API 서비스를 설계·구축했습니다.  
-또한, E2E 테스트를 도입해 서비스 품질과 안정성을 대폭 개선했으며, 이를 통해 개발 효율성과 서비스 신뢰성을 크게 향상시켰습니다.  
+과거 [아하(a-ha)](https://www.a-ha.io/)에서 백엔드 개발자로 근무하며, **월간 활성 사용자(MAU) 1천만 명 이상을 지원하는 API 서비스**를 설계·구축했습니다. 또한, **E2E 테스트를 도입해 서비스의 품질과 안정성을 크게 개선**했으며, 이를 통해 개발 효율성과 신뢰성을 높이는 데 기여했습니다.
 
-현재는 JSON Schema 2020-12 Draft를 구현하는 [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README_KR.md)를 개발 중입니다.  
-이 프로젝트는 런타임 데이터 검증과 TypeScript 타입 추론을 결합해, 개발자가 더욱 안전하고 직관적으로 JSON Schema를 활용할 수 있도록 돕고 있습니다.  
+현재는 **JSON Schema 2020-12 Draft를 구현하는** [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README_KR.md) **라이브러리를 개발 중입니다.**
+
+이 프로젝트는 **런타임 데이터 검증과 TypeScript 타입 추론을 결합하여**, 개발자가 더욱 **안전하고 직관적으로 JSON Schema를 활용할 수 있도록 돕는 것**을 목표로 하고 있습니다.
 
 ## 경력사항
 

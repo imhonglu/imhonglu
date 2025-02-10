@@ -11,13 +11,13 @@
 
 Hello,
 
-I am a software developer with 8 years of experience, specializing in building efficient and maintainable systems using TypeScript.
+I am an experienced developer with **8 years in software development**, specializing in **TypeScript** to build **efficient and maintainable systems**.
 
-Previously, I worked as a backend developer at [Aha (a-ha)](https://www.a-ha.io/), where I designed and built API services supporting over 10 million monthly active users (MAU).  
-Additionally, I introduced end-to-end (E2E) testing, significantly improving service quality, reliability, and development efficiency.
+Previously, I worked as a backend developer at [Aha(a-ha)](https://www.a-ha.io/), where I **designed and built API services supporting over 10 million monthly active users (MAU)**. I also **introduced E2E testing**, significantly improving **service quality and stability**, which enhanced both development efficiency and platform reliability.
 
-Currently, I am developing [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README.md), an implementation of the JSON Schema 2020-12 Draft specification.  
-This project combines runtime data validation with TypeScript type inference, enabling developers to utilize JSON Schema more safely and intuitively.
+Currently, I am developing [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README_KR.md), a **JSON Schema 2020-12 Draft implementation**.
+
+This project combines **runtime data validation with TypeScript type inference**, enabling developers to **leverage JSON Schema more safely and intuitively**.
 
 ## Work Experience
 
