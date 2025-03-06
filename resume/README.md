@@ -4,20 +4,20 @@
 
 ## Personal Information
 
-- **Date of Birth:** December 13, 1991  
-- **Gender:** Male  
+- Date of Birth: December 13, 1991  
+- Gender: Male  
 
 ## About Me
 
 Hello,
 
-I am an experienced developer with **8 years in software development**, specializing in **TypeScript** to build **efficient and maintainable systems**.
+I am an experienced developer with 8 years in software development, specializing in TypeScript to build efficient and maintainable systems.
 
-Previously, I worked as a backend developer at [Aha(a-ha)](https://www.a-ha.io/), where I **designed and built API services supporting over 10 million monthly active users (MAU)**. I also **introduced E2E testing**, significantly improving **service quality and stability**, which enhanced both development efficiency and platform reliability.
+Previously, I worked as a backend developer at [Aha(a-ha)](https://www.a-ha.io/), where I designed and built API services supporting over 10 million monthly active users (MAU). I also introduced E2E testing, significantly improving service quality and stability, which enhanced both development efficiency and platform reliability.
 
-Currently, I am developing [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README_KR.md), a **JSON Schema 2020-12 Draft implementation**.
+Currently, I am developing [@imhonglu/json-schema](https://github.com/imhonglu/new-wheels/blob/main/libs/json-schema/README_KR.md), a JSON Schema 2020-12 Draft implementation.
 
-This project combines **runtime data validation with TypeScript type inference**, enabling developers to **leverage JSON Schema more safely and intuitively**.
+This project combines runtime data validation with TypeScript type inference, enabling developers to leverage JSON Schema more safely and intuitively.
 
 ## Work Experience
 
@@ -32,7 +32,7 @@ This project combines **runtime data validation with TypeScript type inference**
 
 ## Additional Information
 
-- **ROK Army System Operation Officer (2011 ~ 2015)**  
-- **Gunja Technical High School, Department of Electronics (2007 ~ 2010)**  
+- ROK Army System Operation Officer (2011 ~ 2015)  
+- Gunja Technical High School, Department of Electronics (2007 ~ 2010)  
   - Founding member of the Computer Information & Communication Skills Club  
   - Awarded at the 2009 Gyeonggi-do Regional Skills Competition 
