@@ -19,7 +19,7 @@
 - 역할 및 기여: FE 개발(≥80%, 상태 관리·렌더링 최적화), API 개발(100%), CI/CD 구축 및 운영 자동화 (100%)
 - 환경: React, MobX, Styled-Components, React-Helmet, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 - 내용:
-  - ERD 설계 및 데이터 모델링
+  - ERD 설계 및 데이터 모델 정의
   - JWT 기반 RESTful API 설계 및 구현 (디렉토리 기반 동적 라우팅, 미들웨어 기반 인증 및 권한 관리)
   - AWS 기반 CI/CD 파이프라인 구축 및 운영 (CodePipeline, CodeDeploy, CodeBuild 활용)
   - Google, Naver OAuth2.0 소셜 로그인 연동 및 JWT 기반 사용자 인증 구현
@@ -28,9 +28,9 @@
   - 강사 대시보드 및 학습자 대시보드 구현
     - PG사 결제 시스템 연동 및 결제 상태 관리 기능 개발
     - 사용자별 학습 진도 관리 기능 개발 및 이벤트 기반 알림 기능 구현
-  - Quill.js 기반 커스텀 에디터 개발
-    - Markup 및 Attribute Sanitize 적용
-    - 이미지 붙여넣기 시 base64 변환 후 임시 저장하고, 서버 저장 시 동적 업로드 처리
+  - Quill.js 기반 커스텀 에디터 개발 및 클립보드 제어 개선
+    - Markup 및 Attribute에 대한 Sanitize 적용
+    - 이미지 소스를 Base64로 변환하여 프리뷰를 처리하고, API 요청 시 업로드를 트리거하는 방식으로 개선
 - 주요 성과:
   - 온/오프라인 교육 플랫폼 출시 및 운영
   - 결제 시스템 및 학습 진도 관리 기능을 포함한 강사·학습자 대시보드 운영
@@ -54,3 +54,4 @@
   - 이메일 클라이언트별 레이아웃 및 스타일 호환성 최적화
 - 주요 성과:
   - 뉴스레터 플랫폼 출시 및 안정적인 운영
+  - 사업적 결정으로 인해 서비스 종료

@@ -3,52 +3,55 @@
 # SaveTax
 
 - 2017-08-07 ~ 2018-11-23 (1 year 3 months)
-- Joined as an initial developer and was responsible for the prototype development of a tax management app and internal tool development.
+- Joined as an early developer and led the development of tax management app prototype and internal tools.
 
-## Key Technology Stack
+## Main Tech Stack
 
-- React, Styled-Components, React-Helmet, Webpack, AWS S3, React Native, Native Base, MobX, Sendbird, AWS EC2, JS Express, Sequelize, MariaDB, Nginx, Python, Android Debug Bridge (ADB)
+- React, Styled-Components, React-Helmet, Webpack, AWS S3, React Native, Native Base, MobX, Sendbird, AWS EC2, JS Express, Sequelize, MariaDB, Nginx, Python, Android Debug Bridge(ADB)
 
 ## Key Projects
 
-### Android Behavior Mocking Library
+### Android Action Mocking Library
 
-- Objective: Developed a library to automate mobile device testing through keyboard input
+- Purpose: Development of a library to simulate user actions in mobile environments
 - Duration: 1 month
 - Team Size: 1 member
-- Role & Contribution: Development 100%
-- Environment: Python, Android Debug Bridge (ADB)
+- Role & Contribution: Library design and development 100%
+- Environment: Python, Android Debug Bridge(ADB)
 - Details:
-  - Implemented functionality to simulate user text input based on virtual keyboard layouts
-  - Modularized user interaction patterns (e.g., scrolling, text input, touch events) to create reusable test components
+  - Implemented user text input simulation based on virtual keyboard layout
+  - Modularized scroll, text input, and touch events to support various simulation scenarios
 - Key Achievements:
-  - Reduced test case writing time, improved test stability, and enhanced readability
+  - Automated repetitive simulations by defining user actions in script format
 
-### Tax Agent App Prototype Development (POC Stage)
+### Tax Agency App Prototype Development (POC Phase)
 
-- Objective: Developed the prototype for the tax agent app
+- Purpose: Development of tax agency app prototype providing tax consultation and document sharing between tax accountants and clients
 - Duration: 4 months
 - Team Size: 1 member
-- Role & Contribution: Development 100%
+- Role & Contribution: Design and development 100%
 - Environment: React Native, Styled-Components, Native Base, MobX, Sendbird, JS Express, Sequelize, MariaDB, Nginx, AWS EC2
 - Details:
-  - Designed ERD and optimized database structure
-  - Designed and implemented a JWT-based RESTful API
-  - Implemented real-time chat functionality using the Sendbird SDK
+  - Designed ERD and data modeling
+  - Designed and implemented RESTful APIs with JWT authentication
+  - Implemented MobX-based state management and dynamic routing
+  - Implemented real-time chat functionality using Sendbird SDK
 - Key Achievements:
-  - Successfully developed the prototype for the tax agent app, demonstrating the feasibility of the service
+  - Completed Proof of Concept (POC) through tax agency app prototype development
 
 ### Company Website Development
 
-- Objective: Developed a responsive website for corporate branding
+- Purpose: Development of responsive website for corporate introduction and media content utilization
 - Duration: 2 months
 - Team Size: 1 member
-- Role & Contribution: Development 100%
+- Role & Contribution: Website design and development 100%
 - Environment: React, Styled-Components, React-Helmet, Webpack, AWS S3
 - Details:
-  - Developed a responsive website
-  - Optimized for SEO using React-Helmet
-  - Applied code splitting using Webpack
-  - Built static web hosting using AWS S3
+  - Developed responsive UI for mobile and desktop platforms
+  - Developed reusable Carousel component with extensible design
+  - Developed Video component supporting Vimeo and YouTube embedding with extensible media types
+  - Developed abstracted Parallax Scroll container component for multi-page usage
+  - Implemented code splitting and bundle optimization using Webpack
+  - Built and automated static web hosting operations using AWS S3
 - Key Achievements:
-  - Launched and stabilized a responsive website that contributed to the company's branding efforts
+  - Launched and operated responsive corporate website focusing on company introduction and media content, based on reusable UI components

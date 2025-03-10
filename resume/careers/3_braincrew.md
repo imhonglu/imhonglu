@@ -3,50 +3,56 @@
 # BrainCrew
 
 - 2018-12-10 ~ 2020-07-01 (1 year 6 months)
-- Joined as an initial developer, successfully launching 2 services and taking responsibility for infrastructure design and management.
+- Joined as an early developer, successfully launched two services, and managed overall infrastructure design and operations.
 
-## Key Technology Stack
+## Main Tech Stack
 
 - React, MobX, Styled-Components, react-beautiful-dnd, React-Helmet, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS SES, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 
 ## Key Projects
 
-### [Learn A Day](https://learnaday.kr/) Launch and Operation (Service Discontinued)
+### [LearnADay](https://learnaday.kr/) Launch and Operation (Service Discontinued)
 
-- Objective: Launched and operated an online/offline education platform
+- Purpose: Development and operation of an education platform supporting online/offline lectures, learning progress management, and real-time feedback between instructors and learners
 - Duration: 10 months
 - Team Size: 2 members
-- Role & Contribution: Development 80%
+- Role & Contribution: FE development (≥80%, state management & rendering optimization), API development (100%), CI/CD implementation and operation automation (100%)
 - Environment: React, MobX, Styled-Components, React-Helmet, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 - Details:
-  - Designed ERD and optimized database structure
-  - Designed and implemented a JWT-based RESTful API (Directory-based dynamic routing)
-  - Built an AWS-based CI/CD pipeline
-  - Integrated Google and Naver OAuth2.0 for social login
-  - Optimized MobX state management and component re-rendering
+  - Designed ERD and defined data models
+  - Designed and implemented JWT-based RESTful APIs (directory-based dynamic routing, middleware-based authentication and authorization)
+  - Built and operated AWS-based CI/CD pipeline (utilizing CodePipeline, CodeDeploy, CodeBuild)
+  - Implemented Google and Naver OAuth2.0 social login integration with JWT-based user authentication
+  - Implemented MobX-based state management and rendering optimization
+    - Applied nested store structure to minimize data dependencies and optimize caching
   - Developed instructor and learner dashboards
-      - Integrated payment gateway (PG) system
-      - Developed real-time learning progress tracking system for users
-  - Developed a custom editor based on Quilljs (with security considerations for clipboard control and markup filtering)
-  - Optimized SEO using React-Helmet
+    - Integrated PG payment system and developed payment status management
+    - Developed user learning progress tracking and event-based notification system
+  - Developed custom editor based on Quill.js and improved clipboard control
+    - Applied sanitization for markup and attributes
+    - Improved image handling by converting sources to Base64 for preview and triggering uploads during API requests
 - Key Achievements:
-  - Successfully launched and stabilized the online/offline education platform
+  - Successfully launched and operated online/offline education platform
+  - Operated instructor and learner dashboards with payment system and learning progress management
+  - Service discontinued due to business decision
 
 ### [LetterPlus](https://letter.plus/) Launch and Operation (Service Discontinued)
 
-- Objective: Launched and operated a platform for curating academy news and creating mobile newsletters
+- Purpose: Launch and operation of mobile newsletter platform for curating and creating educational institution news
 - Duration: 6 months
 - Team Size: 2 members
-- Role & Contribution: Development 80%
+- Role & Contribution: FE development (≥80%), API development (100%), CI/CD implementation and operation automation (100%)
 - Environment: React, MobX, Styled-Components, react-beautiful-dnd, Webpack, AWS S3, AWS Cloudfront, JS Express, Sequelize, MariaDB, AWS ElasticBeanstalk, AWS SES, AWS CodePipeline, AWS CodeDeploy, AWS CodeBuild, AWS CodeCommit
 - Details:
-  - Designed ERD and optimized database structure
-  - Designed and implemented a JWT-based RESTful API (Directory-based dynamic routing)
-  - Built an AWS-based CI/CD pipeline
-  - Developed a newsletter sending system
-      - Developed a template editing interface using react-beautiful-dnd
-      - Integrated external services for SMS and email sending functionalities
-  - Implemented recipient management and import/export features using Excel/CSV
-  - Optimized HTML/CSS for email client compatibility
+  - Designed ERD and data modeling
+  - Designed and implemented JWT-based RESTful APIs (directory-based dynamic routing, middleware-based authentication and authorization)
+  - Built and operated AWS-based CI/CD pipeline (utilizing CodePipeline, CodeDeploy, CodeBuild)
+  - Built newsletter delivery system
+    - Developed drag-and-drop newsletter template editing feature using react-beautiful-dnd
+    - Implemented SMS and email delivery using AWS SES and external APIs
+  - Implemented recipient management with Excel/CSV import/export functionality
+  - Optimized layout and style compatibility across email clients
 - Key Achievements:
-  - Successfully launched and stabilized the newsletter platform
+  - Successfully launched and operated newsletter platform
+  - Service discontinued due to business decision
+

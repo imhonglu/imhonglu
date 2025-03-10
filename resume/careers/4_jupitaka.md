@@ -3,9 +3,9 @@
 # Jupitaka
 
 - 2020-07-01 ~ 2021-04-05 (9 months)
-- Joined as a Front-End Developer and was responsible for the development of the next-generation app and the establishment of a design system.
+- Joined as FE developer and led next-generation app development and design system implementation.
 
-## Key Technology Stack
+## Main Tech Stack
 
 - TS, React, React-Native, MobX, Emotion, Storybook, Lerna
 
@@ -13,16 +13,16 @@
 
 ### Next-Generation App Development
 
-- Objective: Development of the next-generation app
+- Purpose: Design and development of next-generation app focusing on scalability and maintainability based on new requirements
 - Duration: 9 months
 - Team Size: 2 members
-- Role & Contribution: Team lead and 70% development involvement
+- Role & Contribution: Core architecture design, team lead, monorepo and state management implementation, development 70%
 - Environment: TS, React, React-Native, MobX, Emotion, Storybook, Lerna
 - Details:
-  - Introduced and applied TypeScript
-  - Designed and implemented a Monorepo structure using Lerna
-  - Developed and documented a component library based on Storybook
-  - Implemented PR review processes and pair programming
+  - Participated from initial planning phase to define requirements and design technical architecture
+  - Designed and implemented Lerna-based monorepo architecture for scalability
+  - Developed component library based on Storybook and established automated documentation for UI and development consistency
+  - Defined code review guidelines and introduced PR review process and pair programming to improve code quality
 - Key Achievements:
-  - Improved code quality and increased development productivity
-  - Built a design system, enhancing UI consistency and efficiency
+  - Improved code quality and reduced maintenance costs through TypeScript adoption and PR review process enhancement
+  - Increased UI component reusability and improved new feature development speed by 30% through design system implementation
